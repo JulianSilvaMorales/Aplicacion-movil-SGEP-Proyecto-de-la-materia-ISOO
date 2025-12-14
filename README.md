@@ -18,3 +18,23 @@ El objetivo principal del SGEP es brindar a entrenadores y usuarios una herramie
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/tu-usuario/sgep.git
+
+## Mi aporte
+- Apoyo en el diseño e implementación de las pantallas de **login y registro** de la aplicación móvil, tanto a nivel **visual como funcional**
+- Desarrollo de componentes visuales utilizando **Kotlin y Jetpack Compose**
+- Apoyo en la estructura y organización del proyecto Android
+- Participación en la validación visual y funcional de las pantallas desarrolladas
+
+## Tecnologías y herramientas
+- Kotlin
+- Android Studio
+- Jetpack Compose
+- Room (base de datos local)
+- Gradle
+- Git / GitHub
+
+## Trabajo en equipo
+Proyecto académico desarrollado en equipo.
+
+Repositorio original del proyecto:
+https://github.com/jhonperdomo26/SGEP
